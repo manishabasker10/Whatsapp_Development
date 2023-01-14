@@ -7,6 +7,8 @@ Author:   Manisha.B
 
 2.   Chat Screen Code
 
-3.    Last Screen Code
+3.   Last Seen Code
 
-4.    Attachments  (Image, Audio,  Video) code
+4.   Attachments  (Image, Audio,  Video) code
+
+5.  Hiding The Last Seen 
